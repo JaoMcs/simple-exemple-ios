@@ -1,3 +1,3 @@
 # simple-exemple-ios
 
-Main branch
+Simple project of a MVVM SwiftUI PersonList App
